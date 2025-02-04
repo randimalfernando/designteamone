@@ -2,7 +2,7 @@
 @import url("../fonts/octin_sports_rg.ttf");
 body {
   font-family: "Poppins", sans-serif;
-  color: #0c0c0c;
+  color: #000000;
   background-color: #ffffff;
   overflow-x: hidden;
 }
@@ -85,7 +85,7 @@ h2 {
 
 .header_section.innerpage_header {
   position: relative;
-  background: #3a3f58;
+  background: #000000;
   padding: 10px 0;
 }
 
@@ -350,7 +350,7 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  min-width: 100%;
+  width: 100%;
   min-height: 100%;
 }
 
@@ -405,17 +405,17 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #3a3f58;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #3a3f58;
+  border: 1px solid #000000;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #3a3f58;
+  color: #000000;
 }
 
 .gallery_section {
@@ -550,7 +550,7 @@ a:focus {
 }
 
 .service_section .box .detail-box {
-  background-color: #3a3f58;
+  background-color: #000000;
   color: #ffffff;
   padding: 97.5px 25px 25px 25px;
 }
@@ -628,23 +628,23 @@ a:focus {
 
 .blog_section .box .detail-box p {
   font-size: 15px;
-  color: #444;
+  color: #000000;
 }
 
 .blog_section .box .detail-box a {
   display: inline-block;
   padding: 7px 20px;
-  background-color: #3a3f58;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #3a3f58;
+  border: 1px solid #000000;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .blog_section .box .detail-box a:hover {
   background-color: transparent;
-  color: #3a3f58;
+  color: #000000;
 }
 
 .client_section .heading_container {
@@ -737,7 +737,7 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #3a3f58;
+  background-color: #000000;
 }
 
 .client_section .carousel-control-next {
@@ -755,7 +755,7 @@ a:focus {
 }
 
 .contact_section .form_container {
-  background-color: #3a3f58;
+  background-color: #000000;
   padding: 45px;
   margin-bottom: -90px;
   border: 5px solid #ffffff;
@@ -773,7 +773,7 @@ a:focus {
   margin-bottom: 25px;
   padding-left: 15px;
   outline: none;
-  color: #101010;
+  color: #000000;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
   border-radius: 5px;
@@ -858,19 +858,19 @@ a:focus {
 }
 
 .contact_section .subscribe-box form input::-webkit-input-placeholder {
-  color: #555;
+  color: #000000;
 }
 
 .contact_section .subscribe-box form input:-ms-input-placeholder {
-  color: #555;
+  color: #000000;
 }
 
 .contact_section .subscribe-box form input::-ms-input-placeholder {
-  color: #555;
+  color: #000000;
 }
 
 .contact_section .subscribe-box form input::placeholder {
-  color: #555;
+  color: #000000;
 }
 
 .contact_section .subscribe-box form button {
@@ -881,21 +881,21 @@ a:focus {
   border: none;
   display: inline-block;
   padding: 10px 45px;
-  background-color: #3a3f58;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #3a3f58;
+  border: 1px solid #000000;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .contact_section .subscribe-box form button:hover {
   background-color: transparent;
-  color: #3a3f58;
+  color: #000000;
 }
 
 .info_section {
-  background-color: #262939;
+  background-color: #000000;
   color: #ffffff;
   padding: 165px 0 75px 0;
 }
